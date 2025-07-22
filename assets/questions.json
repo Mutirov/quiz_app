@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "Türkiye'nin başkenti neresidir?",
+      "options": ["İstanbul", "Ankara", "İzmir", "Bursa"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Dünya'nın uydusu hangisidir?",
+      "options": ["Güneş", "Mars", "Ay", "Venüs"],
+      "correctIndex": 2
+    },
+    {
+      "question": "5 x 6 işleminin sonucu kaçtır?",
+      "options": ["11", "30", "56", "65"],
+      "correctIndex": 1
+    },
+    {
+      "question": "İngilizcede 'kitap' kelimesinin karşılığı nedir?",
+      "options": ["Book", "Pen", "Table", "Chair"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Hangi hayvan memelidir?",
+      "options": ["Köpekbalığı", "Serçe", "Balina", "Kaplumbağa"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Türk bayrağında hangi renkler vardır?",
+      "options": ["Kırmızı ve beyaz", "Yeşil ve sarı", "Mavi ve kırmızı", "Siyah ve beyaz"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Atatürk kaç yılında doğmuştur?",
+      "options": ["1881", "1871", "1890", "1900"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Hangi gezegen Güneş'e en yakındır?",
+      "options": ["Venüs", "Dünya", "Mars", "Merkür"],
+      "correctIndex": 3
+    },
+    {
+      "question": "En büyük okyanus hangisidir?",
+      "options": ["Hint Okyanusu", "Atlas Okyanusu", "Pasifik Okyanusu", "Arktik Okyanusu"],
+      "correctIndex": 2
+    },
+    {
+      "question": "1 kilometre kaç metredir?",
+      "options": ["10", "100", "500", "1000"],
+      "correctIndex": 3
+    }
+  ]
+}
